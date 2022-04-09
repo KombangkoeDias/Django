@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/download.jpeg") no-repeat center fixed;
+    /* absolute path */
+}
